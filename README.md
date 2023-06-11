@@ -27,6 +27,6 @@ Bu proje, Doğukan Özcan tarafından Fırat Üniversitesi Yazılım Mühendisli
 ## Video
 <a href="https://drive.google.com/file/d/1CFLVuAh2Q58p3Hk_Zxjqf0wPq5EExMLy/view?usp=sharing" target="_blank" onclick="window.open('https://drive.google.com/file/d/1CFLVuAh2Q58p3Hk_Zxjqf0wPq5EExMLy/view?usp=sharing'); return false;">Tanıtım için tıklayın</a> 
 # Dökümanlar
-Bu projenin gerekli dökümantasyonuna <a href="https://github.com/DogukanOzcn/kartoyunu/tree/main/Ger%C3%A7ek%20Yetenek%20D%C3%B6k%C3%BCmanlar" target="_blank" onclick="window.open('https://github.com/DogukanOzcn/kartoyunu/tree/main/Ger%C3%A7ek%20Yetenek%20D%C3%B6k%C3%BCmanlar'); return false;">buraya tıklayarak</a> erişebilirsiniz
+Bu projenin gerekli dökümantasyonuna <a href="" target="_blank" onclick="window.open(''); return false;">buraya tıklayarak</a> erişebilirsiniz
 ### Oyun içerisinden görüntüler
 <img src="Media/Baslangıc.jpeg" alt="Ana Menü Ekran Görüntüsü" width="250"> <img src="Media/Yagız.jpeg" alt="Hikaye Ekran Görüntüsü" width="250"> <img src="Media/YagızSoru.jpeg" alt="Birinci Ekran Görüntüsü" width="250"> <img src="Media/Esra.jpeg" alt="İkinci Ekran Görüntüsü" width="250"> <img src="Media/EsraSoru.jpeg" alt="Üçüncü Ekran Görüntüsü" width="250"> <img src="Media/SonSoru.jpeg" alt="Bitis Ekran Görüntüsü" width="250"> <img src="Media/Bitis.jpeg" alt="Bitis Ekran Görüntüsü" width="250">
