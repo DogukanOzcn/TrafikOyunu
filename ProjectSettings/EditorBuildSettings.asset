@@ -4,7 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/New City.unity
+    guid: eaaff2cb825278a4b814fd76c67550dd
   m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 4455b0fe8363cd0439a262909fcc2442,
+      type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000,
+      guid: ec37219e5687afa479e62996c36de4c7, type: 2}
     com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
-      guid: b89e62be1233a354fa244848a6983986, type: 2}
+      guid: 8c66d8a74d8404c41993e88f5ea96022, type: 2}
